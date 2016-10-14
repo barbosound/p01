@@ -8,7 +8,7 @@
         inici = "Inici coodrdenades X" + CStr(e.X) + " Y " + CStr(e.Y)
         Me.Text = inici
 
-        If 
+        If  
     End Sub
 
     Private Sub Form1_MouseUp(sender As Object, e As MouseEventArgs) Handles MyBase.MouseUp
